@@ -14,12 +14,10 @@ Estou muito animado nessa nova jornada!
 Até breve C@r0$ DEVS. 
 
 ### Conecte-se comigo
+
+
+
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://https://www.dio.me/users/vaurley4)
-
-
-
-
-
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaurley-abreu-azevedo-265a8b20b/)
