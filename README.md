@@ -6,15 +6,20 @@
 
 # Quem sou eu?
 
+#### 2009 - Licenciatura Plena em Educação Física - Universidade Estadua Vale do Acaraú - UVA - CE
+
+#### 2015 - Superior Tecnológio em Análise e Desenvolvimento de Sistemas - UNOPAR - Universidade do Paraná - CE
+
 Me chamo Vaurley Abreu Azevedo
+
 Nasci no Ceará, tenho contato com computadores desde os 10 anos de idade, porém só conclui o curso de Análise e Desenvolvimento de Sistemas em 2015, e somente agora em 2024 estou me empenhando para aprender programação e ser um dia um desenvolvedor full stack.
 
 Estou muito animado nessa nova jornada!
 
 Até breve C@r0$ DEVS. 
 
-### Conecte-se comigo
-## WPP: 61 - ***** - ****
+#### Conecte-se comigo
+#### WPP: 61 - 99044 - 8698
 
 
 
