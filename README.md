@@ -17,7 +17,7 @@ Estou muito animado nessa nova jornada!
 Até breve C@r0$ DEVS. 
 
 #### Conecte-se comigo
-#### WPP: 61 - 99044 - 8698
+#### WPP: 61 - 
 
 
 
