@@ -6,8 +6,6 @@
 
 # Quem sou eu?
 
-#### 2009 - Licenciatura Plena em Educação Física - Universidade Estadua Vale do Acaraú - UVA - CE
-
 #### 2015 - Superior Tecnológio em Análise e Desenvolvimento de Sistemas - UNOPAR - Universidade do Paraná - CE
 
 Me chamo Vaurley Abreu Azevedo
