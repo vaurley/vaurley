@@ -6,7 +6,7 @@
 
 # Quem sou eu?
 
-#### 2015 - Superior Tecnológio em Análise e Desenvolvimento de Sistemas - UNOPAR - Universidade do Paraná - CE
+#### 2015 - Superior Tecnológio em Análise e Desenvolvimento de Sistemas - UNOPAR - Universidade do Paraná
 
 Me chamo Vaurley Abreu Azevedo
 
